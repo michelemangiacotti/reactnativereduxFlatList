@@ -1,1 +1,1 @@
-# reactnativereduxmangiacotti
+# reactnativeredux
